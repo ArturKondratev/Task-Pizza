@@ -6,5 +6,5 @@
   + Кэширование изображений
 
 <h1 align="center">
-    <img src="https://github.com/ArturKondratev/Task-Pizza/screen/g1.gif" width="250">
+    <img src="https://github.com/ArturKondratev/Task-Pizza/blob/main/screen/g1.gif?raw=true" width="250">
 </h1>
