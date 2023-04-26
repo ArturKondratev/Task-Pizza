@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>29687486109-bveoraieemkqj1qlt6p1r0nfsl81o50b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.29687486109-bveoraieemkqj1qlt6p1r0nfsl81o50b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDb7BJSsuY0yhIc8TeZdHrdPYdZx-vNQ5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>29687486109</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ART.Pizza</string>
+	<key>PROJECT_ID</key>
+	<string>pizzanik-73210</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pizzanik-73210.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:29687486109:ios:6bb0c18db75a5121232674</string>
+</dict>
+</plist>
