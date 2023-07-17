@@ -135,6 +135,7 @@ extension MenuViewController: SelectCategoryCollectionViewCellDelegete {
 
 //MARK: - NavBarConfigure
 extension MenuViewController {
+    
     private func configureNavBar() {
         navigationController?.navigationBar.tintColor = .black
         navigationItem.leftBarButtonItem = makeLeftBarButtonItems()
