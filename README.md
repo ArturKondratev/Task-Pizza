@@ -6,6 +6,7 @@
   + Кэширование изображений
   + Выбор категорий
   + Скролинг к выбранной категории
+  + 
   
   <h1 align="center">
     <img src="https://github.com/ArturKondratev/Task-Pizza/blob/main/screen/s1.png" width="250"> <img src="https://github.com/ArturKondratev/Task-Pizza/blob/main/screen/s2.png" width="250"> <img src="https://github.com/ArturKondratev/Task-Pizza/blob/main/screen/s3.png" width="250">
